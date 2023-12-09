@@ -10,4 +10,6 @@ Once the command has run and the server has started, enter this into your browse
 
 http://127.0.0.1:5000
 
-The archive folder has images that can be ran through the models.
+The Kaggle dataset is provided by this link and has the images that were used for our models:
+
+https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset
